@@ -24,7 +24,7 @@ Para a criação do projeto, foi necessário estabalecer quais as entidade neces
 
 <sub> OBS.: O texto em **negrito** é uma chave primária e aquele em **_negrito e itálico_** é uma chave estrangeira.</sub>
 
-A partir disso, foi possivel criar o projeto e suas classes para então detalhá-las com seus atributos e métodos. Ao ver o arquivo 'src', percebe-se a classe **_Match_** no dominio, essa classe foi criada com o próposito de facilitar a visualização do auto-relacionamento da tabela Usuario, pois um usuario se relaciona com vários outros a partir da quantidade de hobbies compatíveis.
+A partir disso, foi possível criar o projeto e suas classes, e então detalhá-las com seus atributos e métodos. Ao examinar o arquivo _'src'_, é possível notar a presença da classe **Match** no domínio. Essa classe foi criada com o propósito de facilitar a visualização do auto-relacionamento da tabela Usuário, uma vez que um usuário se relaciona com vários outros através da quantidade de hobbies compatíveis.
 
 #### Diagrama de Entidade Relacionamento: 
 
