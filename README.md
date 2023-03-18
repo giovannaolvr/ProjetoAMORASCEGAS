@@ -34,5 +34,4 @@ A partir disso, foi possivel criar o projeto e suas classes para então detalhá
 
 #### Motivos: 
 
-- Ao realizar a operação de excluir um usuario, deveria sair do "MENU USUARIO", o que não acontece e permite que o usuario excluido ainda tenha acesso às operações e acaba dando divergência entre a aplicação e o banco de dados.
-- 
+- Ao realizar a operação de exclusão de um usuário, o correto seria sair do "MENU USUÁRIO". No entanto, isso não está acontecendo e, como resultado, o usuário excluído ainda tem acesso às operações, o que causa divergência entre a aplicação e o banco de dados.
