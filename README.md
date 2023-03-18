@@ -34,5 +34,5 @@ A partir disso, foi possivel criar o projeto e suas classes para então detalhá
 
 #### Motivos: 
 
-- Ao excluir um usuário, deveria sair do "MENU USUARIO", gera um erro na aplicação.
+- Ao realizar a operação de excluir um usuario, deveria sair do "MENU USUARIO", o que não acontece e acaba gerando um erro na aplicação.
 - 
